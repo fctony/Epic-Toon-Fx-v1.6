@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Epic Toon FX/Demo/Scenes/etfx_swordcombat.unity
+  isLoaded: 1
+  isActive: 1
